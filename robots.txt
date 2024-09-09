@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umermonar.github.io/sitemap.html.gz
+Sitemap: https://umermonar.github.io/app/sitemap.html.gz
+Sitemap: https://umermonar.github.io/assets/sitemap.html.gz
+Sitemap: https://umermonar.github.io/css/sitemap.html.gz
+Sitemap: https://umermonar.github.io/includes/sitemap.html.gz
+Sitemap: https://umermonar.github.io/item/sitemap.html.gz
+Sitemap: https://umermonar.github.io/src/sitemap.html.gz
